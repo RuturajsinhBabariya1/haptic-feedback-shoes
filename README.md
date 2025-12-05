@@ -1,4 +1,4 @@
-# Haptic Feedback Shoes  
+# Haptic Feedback Shoes
 ## Intelligent Directional Vibration Guidance System
 
 ![Platform: ESP32-C3](https://img.shields.io/badge/Platform-ESP32--C3-green)
@@ -104,7 +104,7 @@ Designed for practical navigation assistance.
 | Hardware Assembly | Soldering, wiring, and build | Ruturaj |
 | Field Testing | Real-world evaluation | Ruturaj |
 
-This is an independent engineering project.  
+This is an independent engineering project.
 Designed, built, programmed, and tested by a single creator.
 
 ---
@@ -120,5 +120,6 @@ Firmware will be added later:
 
 ## ߎ Vision
 
-> Make technology an extension of instinct.  
-> Every step counts. Make every step smarter.
+Make technology an extension of instinct.
+
+Every step counts. Make every step smarter.
