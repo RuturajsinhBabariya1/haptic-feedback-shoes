@@ -8,7 +8,7 @@
 
 ---
 
-## ߚ Overview
+## :rocket: Overview
 
 Haptic Feedback Shoes enable navigation awareness using vibrational cues instead of sight. Sensors detect obstacles around the wearer, and lightweight motors provide immediate feedback based on direction.
 
@@ -21,7 +21,7 @@ No audio. No screens. Only instinctive tactile feedback.
 
 ---
 
-## ߧ How It Works
+## :brain: How It Works
 
 Each shoe embeds an ESP32-C3 with distance sensors:
 
@@ -39,7 +39,7 @@ Trigger logic:
 
 ---
 
-## ߛ️ Hardware Summary
+## :hammer_and_wrench: Hardware Summary
 
 - ESP32-C3 Super Mini
 - VL53L0X Time-of-Flight sensors
@@ -53,6 +53,7 @@ Charging:
 - Status LEDs for charging/full indicators
 
 ### Additional Badges
+
 ![Power: Li-ion Battery](https://img.shields.io/badge/Power-Li--ion%20Battery-red)
 ![Driver: Transistor](https://img.shields.io/badge/Driver-Transistor-lightgrey)
 ![Motors: ERM](https://img.shields.io/badge/Motors-ERM-yellow)
@@ -60,7 +61,7 @@ Charging:
 
 ---
 
-## ߓ Wireless Communication — ESP-NOW
+## :satellite: Wireless Communication — ESP-NOW
 
 - Ultra-low latency
 - No router required
@@ -71,7 +72,7 @@ Master → Slave messaging keeps the system synchronized.
 
 ---
 
-## ߔ Firmware Capabilities
+## :wrench: Firmware Capabilities
 
 - Continuous sensor monitoring
 - Vibration PWM control (future-ready)
@@ -82,7 +83,7 @@ Master → Slave messaging keeps the system synchronized.
 
 ---
 
-## ߧ‍♂️ Target Use-Case
+## :bust_in_silhouette: Target Use-Case
 
 Assistive wearable for:
 - Low-vision mobility support
@@ -93,7 +94,7 @@ Designed for practical navigation assistance.
 
 ---
 
-## ✨ Credits — Project Roles
+## :sparkles: Credits — Project Roles
 
 | Role | Contribution | Responsible |
 |------|--------------|------------|
@@ -104,12 +105,12 @@ Designed for practical navigation assistance.
 | Hardware Assembly | Soldering, wiring, and build | Ruturaj |
 | Field Testing | Real-world evaluation | Ruturaj |
 
-This is an independent engineering project.
+This is an independent engineering project.  
 Designed, built, programmed, and tested by a single creator.
 
 ---
 
-## ߓ Firmware Code
+## :package: Firmware Code
 
 Firmware will be added later:
 
@@ -118,7 +119,7 @@ Firmware will be added later:
 
 ---
 
-## ߎ Vision
+## :dart: Vision
 
 Make technology an extension of instinct.
 
